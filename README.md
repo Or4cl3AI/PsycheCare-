@@ -27,9 +27,3 @@ PsycheCare is an open source project, and we welcome contributions from the comm
 **Contact**
 
 If you have any questions or feedback, please contact us at [email protected]
-
-**License**
-
-PsycheCare is licensed under the MIT License.
-
-I hope this helps!# PsycheCare-
